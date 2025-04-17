@@ -1,8 +1,0 @@
-{
-	"label": "Sync",
-	"position": 4,
-	"link": {
-		"type": "generated-index",
-		"description": "Synchronizing local data with a server and enabling real-time collaboration"
-	}
-}

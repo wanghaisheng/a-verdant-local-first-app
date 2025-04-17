@@ -29,7 +29,7 @@
 		"tsx": "^3.12.1",
 		"turbo": "^2.0.11",
 		"typescript": "^5.4.2",
-		"vitest": "catalog:"
+		"vitest": "latest"
 	},
 	"dependencies": {
 		"fake-indexeddb": "^5.0.1",
